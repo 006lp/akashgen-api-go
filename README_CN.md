@@ -34,7 +34,7 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/yourusername/akashgen-api-go.git
+   git clone https://github.com/006lp/akashgen-api-go.git
    cd akashgen-api-go
    ```
 
